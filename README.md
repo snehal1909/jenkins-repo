@@ -8,7 +8,7 @@
 ->ManualTrigger
 ->Trigger build remotley
 ->Build After other project are build
-->Build Periodically
+->Build Periodically(Cron expression)
 ->Poll SCM
 ->Git Hub Hook trigger for GITscm polling
 
